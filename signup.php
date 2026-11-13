@@ -22,7 +22,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 <!DOCTYPE html>
-<html lang="en"><head><meta charset="utf-8"><title>Sign Up</title>
+<html lang="en"><head><meta charset="utf-8"><h2>Sign Up</h2>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body{font-family:Arial,sans-serif;background:#f0f2f5;display:flex;justify-content:center;padding:40px}
