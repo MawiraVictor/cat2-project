@@ -19,7 +19,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 <!DOCTYPE html>
-<html lang="en"><head><meta charset="utf-8"><title>Login</title>
+<html lang="en"><head><meta charset="utf-8"><title>Login - CAT2 Server Admin</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body{font-family:Arial,sans-serif;background:#f0f2f5;display:flex;justify-content:center;padding:40px}
